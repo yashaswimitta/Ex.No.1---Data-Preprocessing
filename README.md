@@ -81,7 +81,8 @@ print("Size of X_test: ",len(X_test))
 X_train.shape
 ```
 
-## OUTPU
+## OUTPUT
+![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn1.jpg)
 
 
 ## RESULT
