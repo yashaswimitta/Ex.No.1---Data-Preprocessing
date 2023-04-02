@@ -83,7 +83,10 @@ X_train.shape
 
 ## OUTPUT
 ![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn1.jpg)
-
+![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn2.jpg)
+![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn3.jpg)
+![output]()
+![output]()
 
 ## RESULT
 /Type your result here/
