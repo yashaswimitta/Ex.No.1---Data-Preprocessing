@@ -85,8 +85,8 @@ X_train.shape
 ![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn1.jpg)
 ![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn2.jpg)
 ![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn3.jpg)
-![output]()
-![output]()
+![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn4.jpg)
+![output](https://github.com/yashaswimitta/Ex.No.1---Data-Preprocessing/blob/main/nn5.jpg)
 
 ## RESULT
-/Type your result here/
+Data preprocessing is performed in a data set downloaded from Kaggle
